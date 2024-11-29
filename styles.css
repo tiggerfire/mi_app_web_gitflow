@@ -8,6 +8,10 @@ h1 {
     color: #333;
 }
 
+h2{
+    color: blue;
+}
+
 button {
     padding: 10px 20px;
     font-size: 16px;
