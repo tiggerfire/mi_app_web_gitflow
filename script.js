@@ -3,7 +3,7 @@ document.getElementById('btnClick').addEventListener('click', function() {
 });
 
 
-//Este es un metodo, suscribete al mundo Ferchichi
+//Este es un metodo.
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault();
     var name = document.getElementById('name').value;
